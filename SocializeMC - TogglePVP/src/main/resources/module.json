@@ -1,0 +1,17 @@
+{
+  "name": "${main}",
+  "version": "${project.version}",
+  "main": "${mainClass}",
+  "permissions": {
+    "titan.togglepvp.user": {
+      "default": "true",
+      "description": "Use all the toggle pvp commands",
+      "children": {
+        "titan.command.pvp": true,
+        "titan.command.pvp.disable": true,
+        "titan.command.pvp.enable": true,
+        "titan.command.pvp.toggle": true
+      }
+    }
+  }
+}

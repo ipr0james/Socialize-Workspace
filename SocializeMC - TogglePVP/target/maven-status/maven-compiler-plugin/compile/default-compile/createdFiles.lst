@@ -1,0 +1,14 @@
+net\thenova\titan\spigot\module\togglepvp\user\data_keys\KeyPVPDisabled.class
+net\thenova\titan\spigot\module\togglepvp\handler\PVPHandler.class
+net\thenova\titan\spigot\module\togglepvp\listeners\BlockEvent.class
+net\thenova\titan\spigot\module\togglepvp\commands\subs_pvp\SubCommandPVPToggle.class
+net\thenova\titan\spigot\module\togglepvp\listeners\ConnectionEvent.class
+net\thenova\titan\spigot\module\togglepvp\commands\subs_pvp\SubCommandPVPDisable.class
+net\thenova\titan\spigot\module\togglepvp\handler\PlaceholderPVPStatus.class
+net\thenova\titan\spigot\module\togglepvp\commands\subs_pvp\SubCommandPVPEnable.class
+net\thenova\titan\spigot\module\togglepvp\handler\TaskActionBar.class
+net\thenova\titan\spigot\module\togglepvp\TogglePVP.class
+net\thenova\titan\spigot\module\togglepvp\user\UserPVP.class
+net\thenova\titan\spigot\module\togglepvp\listeners\DamageEvent.class
+net\thenova\titan\spigot\module\togglepvp\commands\CommandPVP.class
+net\thenova\titan\spigot\module\togglepvp\handler\PVPDataFile.class

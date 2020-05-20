@@ -1,0 +1,4 @@
+net\thenova\titan\spigot\module\doublejump\listeners\MoveEvent.class
+net\thenova\titan\spigot\module\doublejump\handler\DJHandler.class
+net\thenova\titan\spigot\module\doublejump\DoubleJump.class
+net\thenova\titan\spigot\module\doublejump\handler\DJDataFile.class

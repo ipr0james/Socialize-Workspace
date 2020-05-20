@@ -1,0 +1,17 @@
+{
+  "name": "TogglePVP",
+  "version": "1.0.0",
+  "main": "net.thenova.titan.spigot.module.togglepvp.TogglePVP",
+  "permissions": {
+    "titan.togglepvp.user": {
+      "default": "true",
+      "description": "Use all the toggle pvp commands",
+      "children": {
+        "titan.command.pvp": true,
+        "titan.command.pvp.disable": true,
+        "titan.command.pvp.enable": true,
+        "titan.command.pvp.toggle": true
+      }
+    }
+  }
+}

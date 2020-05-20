@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Socialize - Core/Socialize - Core.iml" filepath="$PROJECT_DIR$/Socialize - Core/Socialize - Core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Socialize - Workspace.iml" filepath="$PROJECT_DIR$/Socialize - Workspace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SocializeMC - DoubleJump/SocializeMC - DoubleJump.iml" filepath="$PROJECT_DIR$/SocializeMC - DoubleJump/SocializeMC - DoubleJump.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SocializeMC - Jobs Placeholder/SocializeMC - Jobs Placeholder.iml" filepath="$PROJECT_DIR$/SocializeMC - Jobs Placeholder/SocializeMC - Jobs Placeholder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SocializeMC - TogglePVP/SocializeMC - TogglePVP.iml" filepath="$PROJECT_DIR$/SocializeMC - TogglePVP/SocializeMC - TogglePVP.iml" />
+    </modules>
+  </component>
+</project>

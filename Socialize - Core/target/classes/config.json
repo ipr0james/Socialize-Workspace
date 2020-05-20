@@ -1,0 +1,24 @@
+{
+  "version-control": {
+    "version": 1.0
+  },
+  "database": {
+    "database": "database",
+    "password": "password",
+    "host": "localhost",
+    "port": 3306,
+    "user": "user"
+  },
+  "bot": {
+    "token": ""
+  },
+  "emoji": {
+    "xp": 602578405422137370,
+    "coins": 601338063511093248,
+    "tag": 601834190442463253,
+    "gang_tick": 599573229916389376,
+    "gang_cross": 599573212556165120,
+    "lbtrophy": 602457725401563136,
+    "blank": 602586386838847502
+  }
+}
